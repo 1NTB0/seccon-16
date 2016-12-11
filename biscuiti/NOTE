@@ -1,0 +1,1 @@
+admin' AND enc_password='wrongpassword' OR 'a'='a
